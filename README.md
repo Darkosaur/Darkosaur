@@ -4,7 +4,7 @@ Hi! I am Darkosaur, I am a programmer/developer that loves working on Minecraft 
 
 * Java
 
-## stats  
+## Stats  
 <a href="https://github.com/anuraghazra/github-readme-stats">  
   <img align="left" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Darkosaur&count_private=true&include_all_commits=true&show_icons=true&theme=algolia" />
   <img align="left" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkosaur&layout=compact&theme=algolia" />
