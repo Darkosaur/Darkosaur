@@ -4,6 +4,8 @@ Hi! I am Darkosaur, I am a programmer/developer that loves working on Minecraft 
 
 * Java
 
+* JavaScript
+
 * HTML (learning still)
 
 ## Stats  
